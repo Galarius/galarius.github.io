@@ -1,0 +1,156 @@
+$term-text-color:       #63de00 !default;
+
+.terminal{
+    width: 90%;
+    margin-top:40px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:40px;
+    border-radius: 5px;
+    -webkit-box-shadow: 0px 0px 20px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 20px rgba(0,0,0,0.75);
+    /*-webkit-transition:all 0.5s; */
+    overflow: hidden; 
+    font-family: Andale Mono, monospace;  line-height: 1em;
+    font-size:13px;
+    float: left;
+    width: 100%;
+    min-height:130px;
+    background:rgb(30,30,30);
+    padding:10px;
+    line-height:1.5em;
+}
+    
+.terminal .post-meta {
+    color: $term-text-color;
+}
+
+@keyframes blink
+{
+    0%   {  background:rgba(99,222,0,100);  }
+    100% {  background:rgba(99,222,0,0);  }
+}
+
+@-webkit-keyframes blink {
+    0%   {  background:rgba(99,222,0,100);  }
+    100% {  background:rgba(99,222,0,0);  }
+}
+@-moz-keyframes blink {
+    0%   {  background:rgba(99,222,0,100);  }
+    100% {  background:rgba(99,222,0,0);  }
+}
+.cursor {
+    background:$term-text-color; 
+    display:inline-block;
+    width:11px;
+    height:19px;
+    margin-bottom:-3px;
+}
+.terminal:hover .cursor {
+    -webkit-animation-name: blink;
+    -webkit-animation-duration: 1.5s;
+    -webkit-animation-iteration-count: infinite;
+    -moz-animation-name: blink;
+    -moz-animation-duration: 1.5s;
+    -moz-animation-iteration-count: infinite;
+}
+    
+.terminal p::-webkit-selection  {
+    background:#0b209e;
+}
+.terminal p::selection { background:#0b209e; }
+.terminal p::-moz-selection { background:#0b209e; }
+
+.terminal p {
+    color: $term-text-color!important; 
+    margin-top:5px;
+    margin-bottom:5px;
+    font-size:13px;
+}
+
+.terminal a {
+    color: $brand-color;
+    text-decoration: none;
+
+    &:visited {
+    color: lighten(purple, 15%);
+    }
+
+    &:hover {
+    color: white;
+    text-decoration: underline;
+    }
+}
+
+/**
+ * Figures
+ */
+ .terminal .highlight {
+  background: rgb(51,51,51);
+  @extend %vertical-rhythm;
+}
+
+/**
+ * Code formatting
+ */
+ .terminal pre, .terminal code {
+   @include relative-font-size(0.9375);
+   border: 1px solid rgb(51,51,51);
+   border-radius: 3px;
+   background-color: rgb(51,51,51);
+   color: $term-text-color;
+ }
+
+ .terminal code {
+   padding: 1px 5px;
+ }
+ 
+ .terminal pre {
+   padding: 8px 12px;
+   overflow-x: auto;
+ 
+   > code {
+     border: 0;
+     padding-right: 0;
+     padding-left: 0;
+   }
+ }
+
+ .terminal li,
+ .terminal h1, 
+ .terminal h2, 
+ .terminal h3, 
+ .terminal h4, 
+ .terminal h5, 
+ .terminal h6,
+ {
+    color: $term-text-color;
+ }
+
+ /**
+ * Tables
+ */
+ .terminal table {
+    margin-bottom: $spacing-unit;
+    width: 100%;
+    text-align: $table-text-align;
+    color: lighten($term-text-color, 18%);
+    border-collapse: collapse;
+    border: 1px dashed $term-text-color;
+    tr {
+      &:nth-child(even) {
+        background-color: rgb(30,30,30);
+      }
+    }
+    th, td {
+      padding: ($spacing-unit / 3) ($spacing-unit / 2);
+    }
+    th {
+      background-color: rgb(51,51,51);
+      border: 1px dashed $term-text-color;
+      border-bottom-color: $term-text-color;
+    }
+    td {
+      border: 1px dashed $term-text-color;
+    }
+  }

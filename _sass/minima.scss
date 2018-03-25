@@ -11,7 +11,7 @@ $base-line-height: 1.5 !default;
 $spacing-unit:     30px !default;
 
 $text-color:       #111 !default;
-$background-color: #fdfdfd !default;
+$background-color: rgb(219,217,219) !default;
 $brand-color:      #2a7ae2 !default;
 
 $grey-color:       #828282 !default;
@@ -45,7 +45,8 @@ $on-laptop:        800px !default;
 
 // Import partials.
 @import
-  "minima/base",
-  "minima/layout",
-  "minima/syntax-highlighting"
+  "override/base",
+  "override/layout",
+  "override/syntax-highlighting",
+  "term/terminal"
 ;

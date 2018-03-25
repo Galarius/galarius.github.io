@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Intel ISEF 2011"
+date:   2018-03-25 16:49:00 (MSK)
+categories: science fair
+---
+
+Intel International Science and Engineering Fair 2011 in Los Angeles. [Story in GitBook ![](/assets/icons/gitbook.png)](https://galarius.gitbooks.io/intel-isef-2011/)
+
+I have updated the story about one of the most exciting and productive periods of my life. It can be found in my [GitBook Account](https://galarius.gitbooks.io/intel-isef-2011/). The text was written in Russian language back in 2011, and now I have moved it to another web-service, replaced and rearranged photos, slightly corrected the text itself.
+
+2011 was the year of my graduation from amazing Lyceum of Information Technologies. My friend and I spent the whole year to develop our graduation project (to be more specific, the three versions of it). We participated in two country-wide science fairs. In both of them we were nominated with 1st award. It was our chance to participate in Intel ISEF with our project [Sound Wave Propagation: 3D Premises Model](https://github.com/Galarius/portfolio/blob/master/2011/swp3dpm/ReadMe.md). It was very remembering trip, also quite successful as we were granted [Grand Award in Computer Science](https://sspcdn.blob.core.windows.net/files/Documents/SEP/ISEF/2011/Press-Releases/Grand-Awards.pdf) and [Special Award from Acoustical Society of America](https://sspcdn.blob.core.windows.net/files/Documents/SEP/ISEF/2011/Press-Releases/Special-Awards.pdf) (*use keyword CS310 to search*).
+
+Since then I have participated in several more science events, but this one is still the most impressive, large-scale and well-organized.
