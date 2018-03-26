@@ -83,11 +83,9 @@ permalink: /about/
 |
 * Since October ’15        | Software Engineer 
 |                          | State Research Institute of Instrument Engineering
-|                          | Moscow, Russia
 |
-* March ’14 ~ May ’15      | Mobile Software Lead Developer 
-|                          | Trood CIS, 
-|                          | Moscow, Russia
+* March ’14 ~ May ’15      | Mobile Software Developer 
+|                          | Trood CIS
 |
 ```
 
