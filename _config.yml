@@ -17,10 +17,12 @@ title: Galarius
 author: Ilya Shoshin
 email: is@galarius.ru
 description: >- # this means to ignore newlines until "baseurl:"
-  Galarius's Blog & Resume
+  Galarius's Blog & CV
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://galarius.ru" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://galarius.ru" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Galarius
+instagram_username: _galarius_
+rss: Galarius RSS
 
 # Build settings
 markdown: kramdown
