@@ -72,7 +72,7 @@ $term-text-color:       #63de00 !default;
 }
 
 .terminal a {
-    color: $brand-color;
+    color: #2a7ae2;
     text-decoration: none;
 
     &:visited {
@@ -97,7 +97,7 @@ $term-text-color:       #63de00 !default;
  * Code formatting
  */
  .terminal pre, .terminal code {
-   @include relative-font-size(0.9375);
+   
    border: 1px dashed $term-text-color;
    border-radius: 3px;
    background-color: rgb(51,51,51);
