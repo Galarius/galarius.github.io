@@ -7,7 +7,7 @@ layout: default
 > [ECG mob](https://galarius.ru/ecgmob_ios/)
 ---
 
-![ecgmob_ios](https://raw.githubusercontent.com/Galarius/ecgmob_ios/gh-pages/assets/images/intro.png?token=ABZHKHOMZUNUBX6JB5M2UAC42WN3Q)
+![ecgmob_ios](./assets/images/intro.png)
 
 [![](./assets/images/app-store.png)](https://itunes.apple.com/ru/app/ecg-mob/id1406511388?l=en&ls=1&mt=8)
 
