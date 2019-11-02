@@ -7,9 +7,19 @@ layout: default
 > [ECG mob](https://galarius.ru/ecgmob_ios/)
 ---
 
-![ecgmob_ios](./assets/images/intro.png)
+![ecgmob_ios](./assets/images/ecgmob.png)
 
 [![](./assets/images/app-store.png)](https://itunes.apple.com/ru/app/ecg-mob/id1406511388?l=en&ls=1&mt=8)
+
+```
+```
+
+> [First Aid mob](https://galarius.ru/famob_ios/)
+---
+
+![famob_ios](./assets/images/famob.png)
+
+[![](./assets/images/app-store.png)](https://apps.apple.com/us/app/id1474445891)
 
 ```
 ```
