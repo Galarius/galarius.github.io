@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![intro](./assets/images/intro.png)
+![intro](./assets/images/famob.png)
 
 # What is it about?
 

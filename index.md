@@ -4,7 +4,7 @@ layout: default
 
 # Projects
 
-> [ECG mob](./ecg/index.md)
+> [ECG mob](./ecg.md)
 ---
 
 ![ecgmob_ios](./assets/images/ecgmob.png)
@@ -14,7 +14,7 @@ layout: default
 ```
 ```
 
-> [First Aid mob](./famob/index.md)
+> [First Aid mob](./famob.md)
 ---
 
 ![famob_ios](./assets/images/famob.png)
@@ -27,7 +27,7 @@ layout: default
 > [OpenCL for Visual Studio Code](https://galarius.ru/vscode-opencl/)
 ---
 
-![](https://raw.githubusercontent.com/Galarius/vscode-opencl/master/images/kernel.png)[![Current Version](https://vsmarketplacebadge.apphb.com/version-short/galarius.vscode-opencl.svg)](https://marketplace.visualstudio.com/items?itemName=galarius.vscode-opencl)
+[![Current Version](https://vsmarketplacebadge.apphb.com/version-short/galarius.vscode-opencl.svg)](https://marketplace.visualstudio.com/items?itemName=galarius.vscode-opencl)
 [![Install Count](https://vsmarketplacebadge.apphb.com/installs/galarius.vscode-opencl.svg)](https://marketplace.visualstudio.com/items?itemName=galarius.vscode-opencl)
 
 
