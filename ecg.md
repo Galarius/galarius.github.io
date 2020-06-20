@@ -2,9 +2,13 @@
 layout: default
 ---
 
+# ECG mob
+
 ![intro](./assets/images/ecgmob.png)
 
-# What is it about?
+[![](./assets/images/app-store.png)](https://itunes.apple.com/ru/app/ecg-mob/id1406511388?l=en&ls=1&mt=8)
+
+## What is it about?
 
 <div style="text-align: justify;">
 The application serves to work together with a mini cardiograph <a href="https://www.cardio.bioss.ru"> <b>«SERDECHKO»</b> </a> or with devices close in parameters. The system (device and application) is designed for recording, storing and transmitting an electrocardiogram (ECG), which is captured from fingers in everyday life at any time and anywhere and corresponds to the first standard arm-arm channel. 

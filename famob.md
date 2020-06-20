@@ -2,9 +2,13 @@
 layout: default
 ---
 
+# First Aid mob
+
 ![intro](./assets/images/famob.png)
 
-# What is it about?
+[![](./assets/images/app-store.png)](https://apps.apple.com/us/app/id1474445891)
+
+## What is it about?
 
 <div style="text-align: justify;">
 The application serves to work in conjunction with a personal ECG monitor KM-1 or with devices similar in parameters. The system (device and application) are designed to monitor the cardiac activity of affected people during heart attacks, accidents, injuries, terrorist acts or on the battlefield. 
