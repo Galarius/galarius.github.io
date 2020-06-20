@@ -4,7 +4,7 @@ layout: default
 
 # Projects
 
-> [ECG mob](https://galarius.ru/ecgmob_ios/)
+> [ECG mob](./ecg/index.md)
 ---
 
 ![ecgmob_ios](./assets/images/ecgmob.png)
@@ -14,7 +14,7 @@ layout: default
 ```
 ```
 
-> [First Aid mob](https://galarius.ru/famob_ios/)
+> [First Aid mob](./famob/index.md)
 ---
 
 ![famob_ios](./assets/images/famob.png)
