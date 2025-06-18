@@ -6,12 +6,12 @@ layout: default
 
 ![intro](./assets/images/ecgmob.png)
 
-[![](./assets/images/app-store.png)](https://itunes.apple.com/ru/app/ecg-mob/id1406511388?l=en&ls=1&mt=8)
+[![](./assets/images/app-store.png)](https://apps.apple.com/us/app/id1406511388)
 
 ## What is it about?
 
 <div style="text-align: justify;">
-The application serves to work together with a mini cardiograph <a href="https://www.cardio.bioss.ru"> <b>«SERDECHKO»</b> </a> or with devices close in parameters. The system (device and application) is designed for recording, storing and transmitting an electrocardiogram (ECG), which is captured from fingers in everyday life at any time and anywhere and corresponds to the first standard arm-arm channel. 
+The application serves to work together with a mini cardiograph <b>«SERDECHKO»</b> or with devices close in parameters. The system (device and application) is designed for recording, storing and transmitting an electrocardiogram (ECG), which is captured from fingers in everyday life at any time and anywhere and corresponds to the first standard arm-arm channel. 
 <br><br>
 The ECG signal is transmitted from the device to the smartphone through the headset jack (headphones). The ECG is displayed on the smartphone's display. This allows the patient to monitor the quality of electrode contact and monitor the start and end of the recording. The duration of the ECG record can be set based on the recommendation of a doctor (from 30 seconds to 3 minutes). After registration the ECG remains in the memory of the smartphone and is transferred to the doctor as a PDF file by e-mail if necessary.
 </div>
@@ -63,9 +63,9 @@ The app is developed using `Objective-C` / `C++` and supports devices with *iOS 
 
 ## Links
 
-* [«SERDECHKO» site](https://www.cardio.bioss.ru)
-* [Marketplace](http://kzs-siz.ru/catalog/product/view/15/1017)
-* [ECG mob on the App Store](https://itunes.apple.com/ru/app/ecg-mob/id1406511388?l=en&ls=1&mt=8)
+* [KardioMob](https://ecgmobile.github.io)
+
+* [ECG mob on the App Store](https://apps.apple.com/us/app/id1406511388)
 
 ```
 ```

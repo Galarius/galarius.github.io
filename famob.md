@@ -35,7 +35,8 @@ The application has the following main features:
 
 ## Links
 
-* [https://ecgmobile.ru](https://ecgmobile.ru)
+* [KardioMob](https://ecgmobile.github.io)
+
 * [First Aid mob on the App Store](https://apps.apple.com/us/app/id1474445891)
 
 ```
