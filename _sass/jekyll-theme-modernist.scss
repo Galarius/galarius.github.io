@@ -44,11 +44,9 @@ strong {
 
 header {
   border-radius: 8px 8px 0 0;
-  background:#C6EAFA;
-  background: linear_gradient(#DDFBFC, #C6EAFA);
+  background:rgb(248, 245, 245);
   position:relative;
   padding:15px 20px;
-  border-bottom:1px solid #B2D2E1;
 
   h1 {
     margin:0;
@@ -61,6 +59,10 @@ header {
 
   &.without-description h1 {
     margin:10px 0;
+  }
+
+  a {
+    color: #292929;
   }
 
   p {
@@ -95,8 +97,7 @@ header {
     top:20px;
     height:25px;
     padding:1px 0;
-    background:#5198DF;
-    background: linear_gradient(#77B9FB, #3782CD);
+    background:#6C7989;
     border-radius:5px;
     box-shadow: inset rgba(#fff, 0.45) 0 1px 0, inset rgba(#000, 0.2) 0 -1px 0;
     width:auto;
@@ -115,9 +116,9 @@ header {
     }
 
     li {
-      width:79px;
+      width:60px;
       float:left;
-      border-right:1px solid #3A7CBE;
+      border-right:1px solid #DEDEDE;
       height:25px;
 
       &.single {
@@ -126,13 +127,13 @@ header {
     }
 
     li + li {
-      width:78px;
-      border-left:1px solid #8BBEF3;
+      width:60px;
+      border-left:1px solid #DEDEDE;
     }
 
     li + li + li {
       border-right:none;
-      width:79px;
+      width:60px;
     }
 
     a {

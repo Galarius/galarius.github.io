@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Projects
+## Projects
 
 
 > [Dice Goblin](https://dicegoblinapp.github.io)
