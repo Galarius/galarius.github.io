@@ -3,7 +3,26 @@ layout: default
 ---
 
 ## Projects
+> [Kierrätyskartta](https://kierratyskartta.github.io)
+---
 
+<div style="display:flex; align-items: center;">
+    <div style="flex:1">
+        <img src="./assets/images/kierratyskartta.webp" alt="kierratyskartta" width="60%" style="float: left;"/>
+    </div>
+    <div style="flex:1;padding-left:10px;">
+        <h3>Find recycling and collection points across Finland</h3>
+        <br/>
+        <a href="https://apps.apple.com/fi/app/id6757157926">
+            <img src="./assets/images/app-store.png" alt="kierratyskartta"/>
+        </a>
+    </div>
+</div>
+
+<br/>
+
+```
+```
 
 > [Dice Goblin](https://dicegoblinapp.github.io)
 ---
