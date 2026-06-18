@@ -70,9 +70,6 @@ layout: default
 
 ![opencl](./assets/images/opencl.png)
 
-[![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/galarius.vscode-opencl?label=downloads)](https://marketplace.visualstudio.com/items?itemName=galarius.vscode-opencl) [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/galarius.vscode-opencl?label=installs)](https://marketplace.visualstudio.com/items?itemName=galarius.vscode-opencl) [![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/stars/galarius.vscode-opencl?label=rating)](https://marketplace.visualstudio.com/items?itemName=galarius.vscode-opencl)
-
-
 *OpenCL is the trademark of Apple Inc.*
 
 ```
